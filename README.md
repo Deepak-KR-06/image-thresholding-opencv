@@ -1,4 +1,4 @@
-# Image Segmentation Using Thresholding Techniques in OpenCV
+# Exp 8 - Image Segmentation Using Thresholding Techniques in OpenCV
 ## Developed by: Deepak K R
 ## Reg No: 212225040057
 ## Date: 20/08/2026
